@@ -1,0 +1,15 @@
+{
+  [
+    {
+      "Id": "fantasma",
+      "ProtocolName__c": "Fantasma1",
+      "IsActive__c": 1
+    },
+    {
+      "Id": "666",
+      "ProtocolName__c": "007",
+      "IsActive__c": 1
+    }
+
+  ]
+}
